@@ -1,0 +1,2 @@
+# BMI_CALCULATOR_AND_DIET_SUGGESTOR
+Tkinter based project
